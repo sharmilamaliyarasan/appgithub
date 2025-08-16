@@ -49,7 +49,7 @@ Distribution of Annual Income and Distribution of Spending Score
 
 ## 📦 Requirements
 
-pip install pandas matplotlib seaborn numpy jupyter
+pip install pandas matplotlib numpy jupyter
 
 
 jupyter notebook TMI.ipynb
